@@ -25,3 +25,4 @@ xgboost
 streamlit-aggrid
 
 openpyxl
+streamlit_extras
